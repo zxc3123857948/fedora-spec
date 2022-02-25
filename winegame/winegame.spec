@@ -1,6 +1,6 @@
 Name: net.winegame.client
 Version: 0.5.9.3
-Release: 1%{dist}
+Release: 2%{dist}
 Summary: winegame
 License: GPL-3.0+
 URL:  https://winegame.net/
