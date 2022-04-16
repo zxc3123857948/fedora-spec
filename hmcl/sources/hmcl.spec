@@ -7,7 +7,7 @@ License: GPLv3+
 URL:https://hmcl.huangyuhui.net/
 Source0:https://raw.githubusercontent.com/zxc3123857948/fedora-spec/main/hmcl/sources/hmcl
 Source1:https://github.com/zxc3123857948/fedora-spec/blob/main/%{NAME}/sources/jar/%{version}/HMCL-%{version}.jar
-Source2:https://raw.githubusercontent.com/zxc3123857948/fedora-spec/main/hmcl/sources/hmcl.desktop
+Source2:https://github.com/zxc3123857948/fedora-spec/blob/main/hmcl/sources/hmcl.png
 Source3:https://raw.githubusercontent.com/zxc3123857948/fedora-spec/main/hmcl/sources/hmcl.desktop
 
 AutoReqProv: no
