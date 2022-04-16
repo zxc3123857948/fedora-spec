@@ -1,14 +1,14 @@
 Name: hmcl
-Version: 3.5.2.218
+Version: 3.5.3
 Release:        1%{?dist}
 Summary:play minecraft on Fedora
 
 License: GPLv3+
 URL:https://hmcl.huangyuhui.net/
-Source0:hmcl
-Source1:hmcl.jar
-source2:hmcl.png
-source3:hmcl.desktop
+Source0:https://raw.githubusercontent.com/zxc3123857948/fedora-spec/main/hmcl/sources/hmcl
+Source1:https://github.com/zxc3123857948/fedora-spec/blob/main/%{NAME}/sources/jar/%{version}/HMCL-%{version}.jar
+Source2:https://raw.githubusercontent.com/zxc3123857948/fedora-spec/main/hmcl/sources/hmcl.desktop
+Source3:https://raw.githubusercontent.com/zxc3123857948/fedora-spec/main/hmcl/sources/hmcl.desktop
 
 AutoReqProv: no
 Requires: java-17 javafx
