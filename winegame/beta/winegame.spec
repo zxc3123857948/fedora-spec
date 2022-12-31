@@ -12,7 +12,7 @@ Requires:gtk3 glib2 psmisc cabextract
 Requires:unzip  p7zip  tar  curl  wget aria2 
 Requires:libXrandr  zenity 
 Requires:mesa-demos vulkan-loader    vulkan-loader(x86-32)   vulkan-tools python3-lxml  
-Requires:xorg-x11-xfs-utils collectd-notify_desktop 
+Requires: collectd-notify_desktop 
 Requires:glx-utils python3-distro  
 Requires:fluid-soundfont-gs winetricks  gamemode
 Requires:wine
